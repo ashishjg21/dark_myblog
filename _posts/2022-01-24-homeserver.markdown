@@ -1,5 +1,10 @@
 ---
-
+---
+---
+layout: post
+title:  "I built a Home Server"
+date:   2022-01-24 16:37:50 +0530
+categories: jekyll update
 ---
 
 I built a Home server.
